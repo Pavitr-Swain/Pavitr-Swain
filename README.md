@@ -9,7 +9,7 @@
 
 - 🎓 BCA Student | Aspiring **Data Scientist** & **AI Developer**
 - 🧠 Passionate about **Machine Learning**, **NLP**, and solving real-world problems
-- 🛠️ Tech Stack: `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `SQL`, `Streamlit`, `Tkinter`, `React`, `Power BI`, `Matplotlib`, `NLP`
+- 🛠️ Tech Stack: `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `SQL`, `Streamlit`, `Tkinter`, `Power BI`, `Matplotlib`, `NLP`
 - 💼 Building projects in fraud detection, fitness AI, text analysis, and dashboards
 - 🌐 Actively attending tech meetups & AI bootcamps at **T-Hub, Hyderabad**
 
