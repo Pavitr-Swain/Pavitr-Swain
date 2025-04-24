@@ -1,63 +1,43 @@
-<!-- Banner or GIF (optional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Pavitr+Swain;AI+%7C+ML+%7C+Data+Science+Enthusiast;Welcome+to+my+GitHub+Portfolio!" />
-</p>
+## 👋 Hi, I'm Pavitr Kumar Swain
+
+🎓 Final Year BCA Student | 📍 Hyderabad | 🧠 Passionate about AI, ML & Data Analytics
+
+I specialize in building AI-powered solutions to solve real-world problems using Python, ML models, and dashboarding tools. From detecting fraud to analyzing health and social media trends, I love creating projects that have **real impact**.
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 BCA Student | Aspiring **Data Scientist** & **AI Developer**
-- 🧠 Passionate about **Machine Learning**, **NLP**, and solving real-world problems
-- 🛠️ Tech Stack: `Python`, `Pandas`, `NumPy`, `Scikit-learn`, `SQL`, `Streamlit`, `Tkinter`, `Power BI`, `Matplotlib`, `NLP`
-- 💼 Building projects in fraud detection, fitness AI, text analysis, and dashboards
-- 🌐 Actively attending tech meetups & AI bootcamps at **T-Hub, Hyderabad**
+### 🛠 Tech Stack
+- **Languages & Frameworks**: Python, SQL, Flask, Tkinter, React, Streamlit
+- **Data Science & ML**: Pandas, NumPy, Scikit-learn, NLP, SMOTE, PCA, OpenCV
+- **Visualization & Tools**: Power BI, Matplotlib, Seaborn, Chart.js, Excel
 
 ---
 
-## 🚀 Featured Projects
-
-Here are some of my top projects that align with **Data Science**, **ML**, and **AI**:
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [💳 Credit Card Fraud Detection](https://github.com/Pavitr-Swain/Credit-Card-Fraud-Detection) | ML model to detect fraudulent transactions, with GUI | Python, Sklearn, PCA, SMOTE, Tkinter |
-| [🧠 Stress Detection from Social Media](https://github.com/Pavitr-Swain/stress-detection-socialmedia) | NLP-based stress detection from tweets/posts | Python, SVM, NLP, TextBlob |
-| [📊 Music Store SQL Explorer](https://github.com/Pavitr-Swain/music-store-sql-explorer) | SQL + dashboard analytics for music store data | SQL, Flask, React, Chart.js |
-| [🤖 AI Fitness Advisor](https://github.com/Pavitr-Swain/AI-Fitness-Advisor) | Tracks user movements and form via webcam | OpenCV, ML, Python |
-| [⚠️ Online Payment Fraud Detection System](https://github.com/Pavitr-Swain/Online-Payment-Fraud-Detection-System) | Real-time detection with user-friendly dashboard | Python, Streamlit, ML |
+### 🚀 Featured Projects
+| Project | Description | Tech |
+|--------|-------------|------|
+| 💳 Credit Card Fraud Detection | GUI-based fraud detection using ML and PCA | Python, Tkinter, SMOTE |
+| 🧠 Stress Detection from Social Media | NLP-based stress detector from tweets | Python, NLP, SVM |
+| 📊 Music Store SQL Explorer | SQL dashboard for music store insights | SQL, Flask, React |
+| 🤖 AI Fitness Advisor | Webcam-based form tracker | OpenCV, Python |
+| ⚠️ Online Payment Fraud Detection | Real-time dashboard & alerts | Streamlit, ML, Python |
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavitr-Swain&show_icons=true&theme=algolia&hide=stars&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitr-Swain&layout=compact&theme=algolia&hide=c%2B%2B,html" width="45%" />
-</p>
+### 📈 GitHub Stats
+![Pavitr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavitr-Swain&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavitr-Swain&layout=compact)
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavitr-swain" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@pavitrswain" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://linktr.ee/pavitrswain" target="_blank"><img src="https://img.shields.io/badge/Linktree-00f2c3?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="mailto:pavitrswain@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 📫 Connect With Me
+- 🌐 [Portfolio Website](https://your-portfolio-link.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/pavitr-kumar-ab708b227)
+- 🧠 [Medium](https://medium.com/@pavitrkumar1573)
+- 💻 [LeetCode](https://leetcode.com/Pavitr-Swain)
+- 🗂 [Linktree](https://linktr.ee/pavitr_swain157)
 
 ---
 
-## 📌 Quick Links
-
-- 🔗 [My Portfolio Website](#) *()*
-- 🧠 [Data Science Projects](https://github.com/Pavitr-Swain?tab=repositories&q=data)
-- 📚 [Certifications, Simulations & Bootcamp Notes](#)
-- 🛠️ [Templates & Reusable Code Snippets](#)
-
----
-
-## 💬 Fun Fact
-I'm most productive at night 🌙 and love solving problems with Python & a cup of chai ☕😄
-
+### 💡 Fun Fact
+I'm most productive at night 🌙 with a hot cup of chai ☕ — Let's build something impactful together!
