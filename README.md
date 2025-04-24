@@ -31,11 +31,11 @@ I specialize in building AI-powered solutions to solve real-world problems using
 ---
 
 ### 📫 Connect With Me
-- 🌐 [Portfolio Website](https://your-portfolio-link.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/pavitr-kumar-ab708b227)
-- 🧠 [Medium](https://medium.com/@pavitrkumar1573)
-- 💻 [LeetCode](https://leetcode.com/Pavitr-Swain)
-- 🗂 [Linktree](https://linktr.ee/pavitr_swain157)
+- 🌐 [Portfolio Website](https://preview--pavitr-portfolio-design-master.lovable.app/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pavitr-kumar-ab708b227/)
+- 🧠 [Medium](https://medium.com/@pavitr_swain)
+- 💻 [LeetCode](https://leetcode.com/u/pavitr_swain/)
+- 🗂 [kaggle](https://www.kaggle.com/pavitrkumar)
 
 ---
 
