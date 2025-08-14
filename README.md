@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Pavitr Kumar Swain
 
-🎓 Final Year BCA Student | 📍 Hyderabad | 🧠 Passionate about AI, ML & Data Analytics
+🎓 BCA Graduate (2025) | 📍 Hyderabad | 🧠 Passionate about AI, ML & Data Analytics
 
 I specialize in building AI-powered solutions to solve real-world problems using Python, ML models, and dashboarding tools. From detecting fraud to analyzing health and social media trends, I love creating projects that have **real impact**.
 
@@ -16,6 +16,7 @@ I specialize in building AI-powered solutions to solve real-world problems using
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
+❤️ Mental Health Analysis (Ongoing) | Predicts mental health status from survey datasets; includes EDA, visualizations, and ML classification | Python, Pandas, Scikit-learn |
 | 💳 Credit Card Fraud Detection | GUI-based fraud detection using ML and PCA | Python, Tkinter, SMOTE |
 | 🧠 Stress Detection from Social Media | NLP-based stress detector from tweets | Python, NLP, SVM |
 | 📊 Music Store SQL Explorer | SQL dashboard for music store insights | SQL, Flask, React |
