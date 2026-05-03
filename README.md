@@ -106,7 +106,7 @@ stack = {
 
 <div align="center">
 
-**→ [in-alpha-nine.vercel.app](https://in-alpha-nine.vercel.app) · [pavitr.swain@tcs.com](mailto:pavitr.swain@tcs.com)**
+**→ [in-alpha-nine.vercel.app](https://in-alpha-nine.vercel.app) · [pavitr.swain@tcs.com](mailto:pavitrkumar1573@gmail.com)**
 
 *Most productive at night 🌙 with a hot cup of chai ☕*
 
